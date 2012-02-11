@@ -13,12 +13,12 @@ set columns=120
 set nu
 set vb
 set autoindent
-set copyindent
+" set copyindent
 set scrolloff=4
 set hlsearch
-set incsearch
+" set incsearch
 set nolist
-set showmatch
+" set showmatch
 set showmode
 
 " Set the status line
